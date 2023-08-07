@@ -1,0 +1,22 @@
+{
+  "name": "guess-age",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": {
+    "name": "Matheus Campos",
+    "email": "devcodecampos@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
