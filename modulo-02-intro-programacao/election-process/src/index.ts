@@ -48,10 +48,10 @@ while (voteOfCandidates) {
       votesCandidates[2].numberOfVotes += 1;
       break;
     case Candidates.white:
-      votes[0].numberOfVotes;
+      votes[0].numberOfVotes += 1;
       break;
     default:
-      votes[1].numberOfVotes;
+      votes[1].numberOfVotes += 1;
       break;
   }
 
