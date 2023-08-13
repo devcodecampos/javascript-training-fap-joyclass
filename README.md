@@ -12,3 +12,6 @@
   - #### [Desafio Calculadora](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-02-intro-programacao/calculator) 📝🔗
   - #### [Desafio Advinhar Idade](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-02-intro-programacao/guess-age) 📝🔗
   - #### [Desafio Eleição de Candidatos](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-02-intro-programacao/election-process) 📝🔗
+
+ ## 🚀 Módulo 03 - Algoritmo e Estrutura de Dados 
+  - #### [Desafio Criação de Listas](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-03-algoritmos-estruturas-de-dados/people-lists) 📝🔗
