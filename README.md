@@ -15,3 +15,6 @@
 
  ## 🚀 Módulo 03 - Algoritmo e Estrutura de Dados 
   - #### [Desafio Criação de Listas](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-03-algoritmos-estruturas-de-dados/people-lists) 📝🔗
+  - #### [Desafio Matriz Bidimensional](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-03-algoritmos-estruturas-de-dados/animal-characteristics) 📝🔗
+  - #### [Desafio Lista Encadeada](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-03-algoritmos-estruturas-de-dados/linked-list) 📝🔗
+  - #### [Desafio Algoritmo de Busca](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/modulo-03-algoritmos-estruturas-de-dados/search-algorithm) 📝🔗
