@@ -7,7 +7,7 @@
   <a href="#logica">Lógica de Programação</a>&nbsp;|&nbsp;
   <a href="#javascript">JavaScript e Orientação a Objetos</a>&nbsp;|&nbsp;
 </p>
-<br>
+
 
 ## 🎮 Techs <a name="techs"></a>
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -31,7 +31,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 🚀 JavaScript e Orientação a Objetos <a name="javascript"></a>
 #### 🚩 Módulo 01 - Manipulação de Dados em JavaScript
 - #### [Desafio Tipos de Dados](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/tipos-de-dados)
-
+- #### [Desafio Calculadora de Média](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/calculadora-media)
+ 
 ## 🤖Autor 
 Feito por Matheus Campos
 
