@@ -32,7 +32,7 @@ yarn run eslint --init
 ``` 
 git clone https://github.com/devcodecampos/javascript-training-fap-joyclass.git
 
-cd javascript-poo/modulo-01-manipulacao-de-dados/tipos-de-dados
+cd javascript-poo/modulo-01-manipulacao-de-dados/data-types
 
 yarn install
 
