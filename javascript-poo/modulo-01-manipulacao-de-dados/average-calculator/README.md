@@ -46,7 +46,7 @@ yarn add -D prompt-sync
 ``` 
 git clone https://github.com/devcodecampos/javascript-training-fap-joyclass.git
 
-cd javascript-poo/modulo-01-manipulacao-de-dados/calculadora-media
+cd javascript-poo/modulo-01-manipulacao-de-dados/average-calculator
 
 yarn install
 
