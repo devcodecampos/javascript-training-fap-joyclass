@@ -30,9 +30,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🚀 JavaScript e Orientação a Objetos <a name="javascript"></a>
 #### 🚩 Módulo 01 - Manipulação de Dados em JavaScript
-- #### [Desafio Tipos de Dados](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/tipos-de-dados)
-- #### [Desafio Calculadora de Média](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/calculadora-media)
- 
+- #### [Desafio Tipos de Dados](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/data-types)
+- #### [Desafio Calculadora de Média](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-01-manipulacao-de-dados/average-calculator)
+#### 🚩 Módulo 02 - Estruturas e Variáveis em JavaScript
+- #### [Desafio Calculadora](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-02-estruturas-e-variaveis/calculator)
+
 ## 🤖Autor 
 Feito por Matheus Campos
 
