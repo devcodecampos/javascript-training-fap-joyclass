@@ -35,6 +35,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 #### 🚩 Módulo 02 - Estruturas e Variáveis em JavaScript
 - #### [Desafio Calculadora](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-02-estruturas-e-variaveis/calculator)
 
+#### 🚩 Módulo 03 - Utilizando Padrões
+- #### [Desafio Funções](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-03-utilizando-padroes/functions)
+
 ## 🤖Autor 
 Feito por Matheus Campos
 
