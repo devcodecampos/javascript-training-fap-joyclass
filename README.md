@@ -38,6 +38,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 #### 🚩 Módulo 03 - Utilizando Padrões
 - #### [Desafio Funções](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-03-utilizando-padroes/functions)
 
+#### 🚩 Módulo 04 - Desenvolvimento Web, Loops e Bibliotecas
+- #### [Desafio Objeto](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-04-desenvolvimento-web-loops-bibliotecas/bank)
+
 ## 🤖Autor 
 Feito por Matheus Campos
 
