@@ -40,6 +40,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 #### 🚩 Módulo 04 - Desenvolvimento Web, Loops e Bibliotecas
 - #### [Desafio Objeto](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-04-desenvolvimento-web-loops-bibliotecas/bank)
+- #### [Desafio Conexão com o Banco de Dados](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-04-desenvolvimento-web-loops-bibliotecas/database-connection)
 
 ## 🤖Autor 
 Feito por Matheus Campos
