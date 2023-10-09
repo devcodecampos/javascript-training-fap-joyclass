@@ -44,6 +44,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 #### 🚩 Módulo 05 - Programação Orientada a Objetos
 - #### [Desafio Tipos Abstratos](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-05-poo/abstract-type)
+- #### [Desafio Tratamento de Exceções](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-05-poo/error-handling)
 
 ## 🤖Autor 
 Feito por Matheus Campos
