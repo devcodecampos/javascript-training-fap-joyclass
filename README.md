@@ -5,7 +5,8 @@
 <p align="center">
   <a href="#techs">Techs</a>&nbsp;|&nbsp;
   <a href="#logica">Lógica de Programação</a>&nbsp;|&nbsp;
-  <a href="#javascript">JavaScript e Orientação a Objetos</a>&nbsp;|&nbsp;
+  <a href="#javascript">JavaScript POO</a>&nbsp;|&nbsp;
+  <a href="#padroes">Design Pattern</a>&nbsp;|&nbsp;
 </p>
 
 
@@ -45,6 +46,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 #### 🚩 Módulo 05 - Programação Orientada a Objetos
 - #### [Desafio Tipos Abstratos](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-05-poo/abstract-type)
 - #### [Desafio Tratamento de Exceções](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-05-poo/error-handling)
+
+## 🚀 Padrões de Desenvolvimento de Software <a name="padroes"></a>
+- #### [Desafio Design Pattern](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/factory-design-pattern)
 
 ## 🤖Autor 
 Feito por Matheus Campos
