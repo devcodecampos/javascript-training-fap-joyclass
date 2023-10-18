@@ -1,4 +1,4 @@
-## 🚀 Desafio Design Pattern
+## 🚀 Desafio Design Pattern Factory
 ### Considere que:
 - os produtos devem implementar uma interface comum
 - o cliente deve utilizar apenas a fábrica para criar instâncias do tipo abstrato da interface
@@ -10,7 +10,7 @@
 - quando o método .toString() for aplicado a um computador, ele deve imprimir seus atributos
 
 ```ts
-./src/entities/ComputerFactory.js
+./src/entities/ComputerFactory.ts
 
 // Trecho do Código
 import { IComputer } from "../interfaces/IComputer";
@@ -34,7 +34,7 @@ export class ComputerFactory {
   }
 }
 
-./src/index.js
+./src/index.ts
 
 // Trecho do Código
 import { ComputerFactory } from "./entities/ComputerFactory";
