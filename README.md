@@ -56,6 +56,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - #### [Desafio Design Pattern Decorator](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/decorator-design-pattern)
 - #### [Desafio Design Pattern Adapter](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/adapter-design-pattern)
 
+#### 🚩 Módulo 03
+- #### [Desafio Design Pattern Strategy](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/strategy-design-pattern)
+
 ## 🤖Autor 
 Feito por Matheus Campos
 
