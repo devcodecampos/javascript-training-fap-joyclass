@@ -48,9 +48,13 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - #### [Desafio Tratamento de Exceções](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/javascript-poo/modulo-05-poo/error-handling)
 
 ## 🚀 Padrões de Desenvolvimento de Software <a name="padroes"></a>
+#### 🚩 Módulo 01
 - #### [Desafio Design Pattern Factory](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/factory-design-pattern)
 - #### [Desafio Design Pattern Prototype](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/prototype-design-pattern)
+
+#### 🚩 Módulo 02
 - #### [Desafio Design Pattern Decorator](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/decorator-design-pattern)
+- #### [Desafio Design Pattern Adapter](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/adapter-design-pattern)
 
 ## 🤖Autor 
 Feito por Matheus Campos
