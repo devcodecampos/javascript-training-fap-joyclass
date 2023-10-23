@@ -58,6 +58,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 #### 🚩 Módulo 03
 - #### [Desafio Design Pattern Strategy](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/strategy-design-pattern)
+- #### [Desafio Design Pattern Observer](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/observer-design-pattern)
 
 ## 🤖Autor 
 Feito por Matheus Campos
