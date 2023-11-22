@@ -51,6 +51,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 #### 🚩 Módulo 01
 - #### [Desafio Design Pattern Factory](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/factory-design-pattern)
 - #### [Desafio Design Pattern Prototype](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/prototype-design-pattern)
+- #### [Desafio Design Pattern Singleton](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/singleton-design-pattern)
 
 #### 🚩 Módulo 02
 - #### [Desafio Design Pattern Decorator](https://github.com/devcodecampos/javascript-training-fap-joyclass/tree/main/padroes-de-desenvolvimento-de-software/decorator-design-pattern)
